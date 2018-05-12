@@ -1,0 +1,36 @@
+_repo: The-Fairy-Books-of-Andrew-LangA-Project-Gutenberg-Linked-Index-to-All-Stories-in-the-12-Volum__30580
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2009-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30580'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- !lcsh 'Folklore'
+title: 'The Fairy Books of Andrew Lang
+
+  A Project Gutenberg Linked Index to All Stories in the 12 Volumes'
+url: http://www.gutenberg.org/ebooks/30580
